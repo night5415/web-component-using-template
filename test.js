@@ -6,7 +6,7 @@ button {
   color: white;
   padding: 2rem 4rem;
   border: 0;
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 </style>
 <button>Sup?</button>`;
